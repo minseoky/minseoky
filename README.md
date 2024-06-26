@@ -13,7 +13,9 @@ I am a senior student majoring in Software Engineering, with a passionate intere
 ## ⭐️ Currently Studying
 I am currently deepening my understanding of virtualization and container orchestration through hands-on projects using Proxmox![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) and exploring scalable solutions with AWS Elastic Kubernetes Service (EKS)![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white).
 
-
+## 📫 How to Reach Me
+- Email: [minseok184@gmail.com]
+  
 
 
 <!--
