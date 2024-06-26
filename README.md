@@ -15,7 +15,7 @@ I am currently deepening my understanding of virtualization and container orches
 
 ## 📫 How to Reach Me
 - Email: minseok184@gmail.com
-  
+- Blog: minseoky.me
 
 
 <!--
