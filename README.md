@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a senior student majoring in Software Engineering, with a passionate interest in system architecture and cloud computing. Throughout my academic journey, I have consistently engaged with advanced technologies and focused on understanding the intricacies of scalable, robust system designs and cloud infrastructure.
+
+
 
 ## 🛠 Languages and Tools
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security)
@@ -7,6 +10,10 @@
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
+## ⭐️ Currently Studying
+I am currently deepening my understanding of virtualization and container orchestration through hands-on projects using Proxmox and exploring scalable solutions with AWS Elastic Kubernetes Service (EKS).
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 
 <!--
