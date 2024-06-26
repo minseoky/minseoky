@@ -11,9 +11,9 @@ I am a senior student majoring in Software Engineering, with a passionate intere
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ## ⭐️ Currently Studying
-I am currently deepening my understanding of virtualization and container orchestration through hands-on projects using Proxmox and exploring scalable solutions with AWS Elastic Kubernetes Service (EKS).
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+I am currently deepening my understanding of virtualization and container orchestration through hands-on projects using Proxmox![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) and exploring scalable solutions with AWS Elastic Kubernetes Service (EKS)![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white).
+
+
 
 
 <!--
