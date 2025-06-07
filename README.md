@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a backend engineer with a strong passion for building scalable, high-performance systems. While I haven’t been deeply involved in architecture-level decision making yet, I’ve developed a growing interest in cloud infrastructure and DevOps practices.
+I am a backend engineer with a strong passion for building scalable, high-performance systems. In addition to developing reliable backend services, I’m deeply interested in cloud infrastructure and DevOps practices, including container orchestration, infrastructure as code, and CI/CD automation.
+
+With a growing focus on how services run and scale in production, I aim to become an engineer who bridges software development and operations to build systems that are not only functional, but also observable, resilient, and maintainable.
 
 I’m especially drawn to areas like infrastructure as code, CI/CD automation, container orchestration, and production-level observability. My long-term goal is to become an engineer who not only builds robust backend services, but also designs and operates systems with a deep understanding of how they run in the real world.
 
