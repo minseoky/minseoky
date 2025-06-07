@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a backend engineer with a strong passion for building scalable, high-performance systems. After graduating with a degree in Software Engineering, I began working professionally on designing and implementing cloud-native architectures that are resilient, maintainable, and optimized for growth.
+I am a backend engineer with a strong passion for building scalable, high-performance systems. While I haven’t been deeply involved in architecture-level decision making yet, I’ve developed a growing interest in cloud infrastructure and DevOps practices.
+
+I’m especially drawn to areas like infrastructure as code, CI/CD automation, container orchestration, and production-level observability. My long-term goal is to become an engineer who not only builds robust backend services, but also designs and operates systems with a deep understanding of how they run in the real world.
 
 I constantly think about how services can scale—both in terms of traffic and evolving requirements—and find great satisfaction in creating systems that are not only efficient but also adaptable. My background in computer science has shaped my interest in concurrency, thread safety, and system-level stability, which I consider essential for building robust backend services.
 
