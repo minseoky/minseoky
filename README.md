@@ -25,7 +25,8 @@ I actively apply patterns like microservice orchestration, reactive programming,
   [🔗 GitHub Repo](https://github.com/minseoky/MCP-SSE-server-with-Java-demo)
 
 - **RAG + MCP Smart Home Architecture (conceptual)**  
-  Currently designing a smart IoT home system architecture that combines Retrieval-Augmented Generation (RAG) with the Model Context Protocol (MCP). This conceptual project aims to explore how context-aware AI assistants can interface with real-world devices through structured protocols and reactive infrastructure.
+  Currently designing a smart IoT home system architecture that combines Retrieval-Augmented Generation (RAG) with the Model Context Protocol (MCP). This conceptual project aims to explore how context-aware AI assistants can interface with real-world devices through structured protocols and reactive infrastructure.  
+  Sometimes — okay, most of the time — I lie in bed and imagine an AI assistant turning off the lights in my room for me.
 
 ## ⭐️ Currently Studying
 
