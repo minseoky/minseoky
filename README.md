@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-I am a backend engineer with a strong passion for building scalable and high-performance systems. After graduating with a degree in Software Engineering, I began working professionally on designing and implementing cloud-native architectures that are resilient, maintainable, and optimized for performance.
+I am a backend engineer with a strong passion for building scalable, high-performance systems. After graduating with a degree in Software Engineering, I began working professionally on designing and implementing cloud-native architectures that are resilient, maintainable, and optimized for growth.
 
-I take great pleasure in improving system performance and designing extensible architectures that can gracefully handle growing demands. I’m especially interested in distributed systems, microservice orchestration, and reactive programming models.
+I constantly think about how services can scale—both in terms of traffic and evolving requirements—and find great satisfaction in creating systems that are not only efficient but also adaptable. My background in computer science has shaped my interest in concurrency, thread safety, and system-level stability, which I consider essential for building robust backend services.
 
-While my focus is on backend development, I’ve also spent time exploring frontend technologies like React and React Native. This has helped me better understand the perspective of frontend teams and improved my ability to collaborate more effectively across the full stack.
+While my main focus is backend development, I’ve also explored frontend technologies like React and React Native. This experience has helped me better understand client-side perspectives and work more effectively across the full stack.
 
-Beyond writing efficient code, I enjoy translating business needs into clean, scalable system designs and believe that thoughtful architecture is the foundation of sustainable software. I’m always eager to explore new patterns, tools, and best practices that elevate both reliability and developer experience.
-
-Currently, I continue to deepen my expertise in system design, DevOps culture, and cloud infrastructure, aiming to build systems that are not only functional but also elegant and future-proof.
+I actively apply patterns like microservice orchestration, reactive programming, and domain-driven design to deliver systems that are cleanly architected and future-proof. I’m always eager to refine my understanding of system design, DevOps culture, and distributed computing to solve real-world problems with clarity and scalability.
 
 ## 🛠 Languages and Tools
 
