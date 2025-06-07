@@ -20,6 +20,14 @@ Currently, I continue to deepen my expertise in system design, DevOps culture, a
 | ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |                            |  |
 
+## 🚀 Recent Projects
+
+- **MCP-SSE-server-with-Java-demo**  
+  Implemented a Java-based server to explore the inner workings of the Model Context Protocol (MCP), focusing on its use of Server-Sent Events (SSE) for bidirectional communication. The project helped me gain a deep understanding of message flows, prompt/tool invocation, and protocol-level behavior.  
+  [🔗 GitHub Repo](https://github.com/minseoky/MCP-SSE-server-with-Java-demo)
+
+- **RAG + MCP Smart Home Architecture (conceptual)**  
+  Currently designing a smart IoT home system architecture that combines Retrieval-Augmented Generation (RAG) with the Model Context Protocol (MCP). This conceptual project aims to explore how context-aware AI assistants can interface with real-world devices through structured protocols and reactive infrastructure.
 
 ## ⭐️ Currently Studying
 
