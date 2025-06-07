@@ -1,17 +1,29 @@
 ## Hi there 👋
-I am a senior student majoring in Software Engineering, with a passionate interest in system architecture and cloud computing. Throughout my academic journey, I have consistently engaged with advanced technologies and focused on understanding the intricacies of scalable, robust system designs and cloud infrastructure.
 
+I am a backend engineer with a strong passion for building scalable and high-performance systems. After graduating with a degree in Software Engineering, I began working professionally on designing and implementing cloud-native architectures that are resilient, maintainable, and optimized for performance.
 
+I take great pleasure in improving system performance and designing extensible architectures that can gracefully handle growing demands. I’m especially interested in distributed systems, microservice orchestration, and reactive programming models.
+
+While my focus is on backend development, I’ve also spent time exploring frontend technologies like React and React Native. This has helped me better understand the perspective of frontend teams and improved my ability to collaborate more effectively across the full stack.
+
+Beyond writing efficient code, I enjoy translating business needs into clean, scalable system designs and believe that thoughtful architecture is the foundation of sustainable software. I’m always eager to explore new patterns, tools, and best practices that elevate both reliability and developer experience.
+
+Currently, I continue to deepen my expertise in system design, DevOps culture, and cloud infrastructure, aiming to build systems that are not only functional but also elegant and future-proof.
 
 ## 🛠 Languages and Tools
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+| Language / Framework | Database / Container       | Cloud Services        | DevOps / Others         |
+|----------------------|----------------------------|------------------------|--------------------------|
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) | ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white) |
+| ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |                            |  |
+
 
 ## ⭐️ Currently Studying
-I am currently deepening my understanding of virtualization and container orchestration through hands-on projects using Proxmox![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) and exploring scalable solutions with AWS Elastic Kubernetes Service (EKS)![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white).
+
+I am currently preparing for the Certified Kubernetes Administrator (CKA) exam to deepen my expertise in managing production-grade Kubernetes clusters. Alongside this, I’ve been actively exploring emerging architectures such as Retrieval-Augmented Generation (RAG) and the Model Context Protocol (MCP), focusing on how these technologies can be integrated into scalable backend systems.
 
 ## 📫 How to Reach Me
 - Email: minseok184@gmail.com
