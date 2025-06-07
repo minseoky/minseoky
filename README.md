@@ -4,8 +4,6 @@ I am a backend engineer with a strong passion for building scalable, high-perfor
 
 With a growing focus on how services run and scale in production, I aim to become an engineer who bridges software development and operations to build systems that are not only functional, but also observable, resilient, and maintainable.
 
-I’m especially drawn to areas like infrastructure as code, CI/CD automation, container orchestration, and production-level observability. My long-term goal is to become an engineer who not only builds robust backend services, but also designs and operates systems with a deep understanding of how they run in the real world.
-
 I constantly think about how services can scale—both in terms of traffic and evolving requirements—and find great satisfaction in creating systems that are not only efficient but also adaptable. My background in computer science has shaped my interest in concurrency, thread safety, and system-level stability, which I consider essential for building robust backend services.
 
 While my main focus is backend development, I’ve also explored frontend technologies like React and React Native. This experience has helped me better understand client-side perspectives and work more effectively across the full stack.
